@@ -13,7 +13,7 @@ Docker, as shown [here](https://github.com/kevinbuch/ops-stuff).
 ## Topics
 
 - Implementing the circuit breaker and bulkhead pattern.
-  See [Hytrix](https://github.com/Netflix/Hystrix) for concepts and implementation.
+  See [Hystrix](https://github.com/Netflix/Hystrix) for concepts and implementation.
 
 - Logging and instrumentation patterns in services.
   See [Dropwizard](http://www.dropwizard.io/0.9.2/docs/) for concepts and implementation.
@@ -33,3 +33,5 @@ Docker, as shown [here](https://github.com/kevinbuch/ops-stuff).
 - Monitoring. [Nagios](https://www.nagios.org/)
 
 - Security. (SSO and such)
+
+- Frontend Server. [Example/Resources](https://www.youtube.com/watch?v=_1rh_s1WmRA)
